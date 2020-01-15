@@ -1,19 +1,36 @@
+/*body {
+    font-family: 'Montserrat';font-size: 22px;
+}*/
+
 .module_section {
 	padding-left: 4%;
 	}
 
-.announcement {
+.due-date {
 	color: red;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.announcement {
 	font-style: italic;
 	font-weight: bold;
 }
 
 
 img {
-	width: 50%;
+	width: 75%;
 }
 
 .banner {
 	width: 98%;
-	margin: auto
+	margin: auto;
+}
+
+.indent {
+	padding-left:3%;
+}
+
+h3 {
+	margin-bottom: 1px;
 }
